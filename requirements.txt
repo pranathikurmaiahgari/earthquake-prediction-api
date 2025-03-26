@@ -10,7 +10,7 @@ pandas>=1.0.0           # For DataFrame creation (adjust version if needed)
 
 # Machine Learning Libraries
 scikit-learn==1.2.2     # Often needed by joblib or for preprocessing consistency
-               # The library for your XGBoost model
+XGBoost            # The library for your XGBoost model
 
 # Utilities
 pydantic>=1.8.0         # For data validation with FastAPI
